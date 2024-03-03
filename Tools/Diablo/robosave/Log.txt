@@ -4,3 +4,7 @@ or directory name on the target
 C:multi_6.sv
 C:single_0.sv
 3 File(s) copied
+C:multi_5.sv
+C:multi_6.sv
+C:single_0.sv
+3 File(s) copied
