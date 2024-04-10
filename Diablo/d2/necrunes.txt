@@ -1,0 +1,4 @@
+Bone = SolUmUm
+Enigma = JahIthBer
+Infinity = BerMalBerIst
+Fortitude = ElSolDolLo
